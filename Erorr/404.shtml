@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html dir="rtl">
+
+<head>
+    <title>WHMCS Install/Upgrade Process</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/css/fontawesome-all.min.css" rel="stylesheet">
+    <link href="../assets/css/Ajyal_v3.css" rel="stylesheet">
+    <link href="../assets/css/Ajyal_v3post.css" rel="stylesheet">
+    <script type="text/javascript" src="../assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="../assets/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <h2><span style="color: brown;">خطأ 404</span></h2>
+        <p>
+            <p style="color: rgb(243, 32, 32);">الصفحة غير موجودة</p>
+        </p>
+        <br>
+        <p align="center">
+            <a href="/Users" id="btnGoToAdminArea" class="btn btn-default">رجوع &raquo;</a>
+        </p>
+    </div>
+</body>
+
+</html>
